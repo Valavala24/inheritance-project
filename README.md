@@ -1,4 +1,4 @@
-#Java Basics Project
+#Inheritance Project
 
 *Simple Java Basic Concepts*
 
